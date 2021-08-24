@@ -1,0 +1,18 @@
+[
+  {
+    "value": "default",
+    "label": "Default"
+  },
+  {
+    "value": "green",
+    "label": "Green"
+  },
+  {
+    "value": "red",
+    "label": "Red"
+  },
+  {
+    "value": "purple",
+    "label": "Purple"
+  }
+]
